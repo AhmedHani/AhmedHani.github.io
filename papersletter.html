@@ -6,7 +6,7 @@ layout: default
   {% for post in site.posts %}
   <p>Name: {{ post.title }}</p>
   <p>URL: {{ post.url }} </p>
-  <p>All: {{ length(site.posts) }} </p>
+  <p>length: {{ length(post.url) }} </p>
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
