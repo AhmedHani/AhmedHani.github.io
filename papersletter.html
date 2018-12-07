@@ -4,15 +4,12 @@ layout: default
 
 <div class="posts">
   {% for post in site.posts %}
-  
-  {% if post.title is string %}
-  	<p>string!</p>
-  {% else %}
-    <p>Not string!</p>
-  {% endif %}
 
   <p>Name: {{ post.title }}</p>
   <p>URL: {{ post.url }} </p>
+
+  <p>Test Capital: {{"variable"|capitalize}}</p>
+
     
     <article class="post">
 
