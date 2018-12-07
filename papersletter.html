@@ -4,7 +4,8 @@ layout: default
 
 <div class="posts">
   {% for post in site.posts %}
-  {% if 'paper' is in  "" ~ post.title ~ ""  %}{% continue %}{% endif %}
+  {% if 'paper' in {{ post.title }} %}
+  {% endif %}
 
     <article class="post">
 
