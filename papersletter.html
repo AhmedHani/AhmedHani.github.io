@@ -4,9 +4,7 @@ layout: default
 
 <div class="posts">
   {% for post in site.posts %}
-  {% if 'paper' not in post.title %}
-  {% continue %}
-  {% endif %}
+  {{ print(post.title) }}
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
