@@ -5,8 +5,8 @@ layout: default
 <div class="posts">
   {% for post in site.posts %}
 
-  	{% if post.title is defined %}
-    	value of variable: {{ post.title }}
+  	{% if post.url is defined %}
+    	value of variable: {{ post.url }}
   	{% else %}
     	Is not defined
 	{% endif %}
