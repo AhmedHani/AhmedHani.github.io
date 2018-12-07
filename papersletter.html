@@ -5,8 +5,8 @@ layout: default
 <div class="posts">
   {% for post in site.posts %}
   
-  {% if post.title == "Paper" %}
-  	<p>Defined!</p>
+  {% if post.title not in "Paper" %}
+  	<p>Defineddd!</p>
   {% endif %}
 
   <p>Name: {{ post.title }}</p>
