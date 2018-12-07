@@ -5,7 +5,7 @@ layout: default
 <div class="posts">
   {% for post in site.posts %}
 
-  	{% if post.url is not None %}
+  	{% if post.url is none %}
     	value of variable: {{ post.url }}
   	{% else %}
     	Is not defined
