@@ -5,18 +5,9 @@ layout: default
 <div class="posts">
   {% for post in site.posts %}
   
-  {% if post.title is defined %}
+  {% if post.title is "Paper" %}
   	<p>Defined!</p>
   {% endif %}
-
-  {% if post.title is iterable %}
-  	<p>Iteratable!</p>
-  {% endif %}
-
-  {% if post.title is mapping %}
-  	<p>Mapping!</p>
-  {% endif %}
-
 
   <p>Name: {{ post.title }}</p>
   <p>URL: {{ post.url }} </p>
