@@ -4,11 +4,8 @@ layout: default
 
 <div class="posts">
   {% for post in site.posts %}
-  <p>{{ post.title }}</p>
-  <p>{{ len(post.title) }}</p>
-  {% if "paper" != lower(post.title) %}
-  <p>{{ lower(post.title) }}</p>
-  {% endif %}
+  <p>Name: {{ post.title }}</p>
+  <p>Length: {{ len(post.title) }}</p>
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
