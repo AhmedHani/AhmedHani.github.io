@@ -5,7 +5,8 @@ layout: default
 <div class="posts">
   {% for post in site.posts %}
   <p>Name: {{ post.title }}</p>
-  <p>Lower: {{ length(list(post.title)) }} </p>
+  <p>URL: {{ post.url }} </p>
+  <p>All: {{ length(site.posts) }} </p>
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
