@@ -4,7 +4,7 @@ layout: default
 
 <div class="posts">
   {% for post in site.posts %}
-  {%- if 'paper' not in post.title %}{% continue %}{% endif %}
+  {% if 'paper' not in post.title %}{% continue %}{% endif %}
 
     <article class="post">
 
