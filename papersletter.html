@@ -4,11 +4,11 @@ layout: default
 
 <div class="posts">
   {% for post in site.posts %}
-  {% if "paper" not in "paper is good" %}
-  <p>Name: {{ post.title }}</p>
-  {% endif %}
+  {%- if "paper" in "paper is good" %}{% continue %}{% endif %}
+  
   <p>Name: {{ post.title }}</p>
   <p>URL: {{ post.url }} </p>
+    
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
