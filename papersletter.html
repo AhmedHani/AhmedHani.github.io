@@ -5,8 +5,8 @@ layout: default
 <div class="posts">
   {% for post in site.posts %}
 
-  	{% if post.url is none %}
-    	value of variable: {{ post.url }}
+  	{% if post.url %}
+    	value of variable: {{  post.url|join("--") }}
   	{% else %}
     	Is not defined
 	{% endif %}
