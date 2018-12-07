@@ -5,8 +5,10 @@ layout: default
 <div class="posts">
   {% for post in site.posts %}
   
-  {% if post.title is iterable %}
-  	<p>iterable!</p>
+  {% if post.title is string %}
+  	<p>string!</p>
+  {% else %}
+    <p>Not string!</p>
   {% endif %}
 
   <p>Name: {{ post.title }}</p>
