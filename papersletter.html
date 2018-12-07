@@ -4,6 +4,12 @@ layout: default
 
 <div class="posts">
   {% for post in site.posts %}
+
+  	{% if post.title is defined %}
+    	value of variable: {{ post.title }}
+  	{% else %}
+    	Is not defined
+	{% endif %}
     
     <article class="post">
 
