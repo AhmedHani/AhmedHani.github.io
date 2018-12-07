@@ -5,10 +5,7 @@ layout: default
 <div class="posts">
   {% for post in site.posts %}
 
-  <p>Name: {{ post.title }}</p>
-  <p>URL: {{ post.url }} </p>
-
-  <p>post: {{ post|pprint(true) }}</p>
+  <p>Title: {{ post.title||lower|capfirst }}</p>
     
     <article class="post">
 
