@@ -1,5 +1,5 @@
 ---
 layout: post
-title: First Paper
+title: First paper
 comments: true
 ---
