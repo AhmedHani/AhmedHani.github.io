@@ -7,9 +7,8 @@ layout: default
 
   <p>Name: {{ post.title }}</p>
   <p>URL: {{ post.url }} </p>
-  <p>eeeh b2a: {{ pprint(post.url) }}</p>
 
-  <p>upper: {{"hobaaa b2a"|upper}}</p>
+  <p>post: {{ post|pprint(true) }}</p>
     
     <article class="post">
 
