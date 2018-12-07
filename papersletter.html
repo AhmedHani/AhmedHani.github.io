@@ -4,9 +4,8 @@ layout: default
 
 <div class="posts">
   {% for post in site.posts %}
-  {% if "Paper" == post.title %}
-  <p> {{ post.title }} </p>
-  <p> {{ post.title }} </p>
+  {% if "paper" not in lower(post.title) %}
+  {% continue %}
   {% endif %}
     <article class="post">
 
