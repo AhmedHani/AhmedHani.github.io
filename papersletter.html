@@ -3,7 +3,10 @@ layout: default
 ---
 
 <div class="posts">
-  {% for post in site.posts %}  
+  {% for post in site.posts %}
+  {% for ch in post.url %}
+  <p>Name: {{ ch }}</p>
+  {% endfor %}
   <p>Name: {{ post.title }}</p>
   <p>URL: {{ post.url }} </p>
     
