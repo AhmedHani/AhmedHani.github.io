@@ -4,8 +4,7 @@ layout: default
 
 <div class="posts">
   {% for post in site.posts %}
-  <p>{{ [1, 2, 3]|join('|') }}</p>
-  {% if 1 == 1 %}{% continue %}{% endif %}
+  <p>Post: {{ post }}</p>
   
   <p>Name: {{ post.title }}</p>
   <p>URL: {{ post.url }} </p>
