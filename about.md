@@ -4,14 +4,14 @@ title: About
 permalink: /about/
 ---
 
-My name is Ahmed. I am 25 years old.
+With over ten years of experience in data science, machine learning, and ML Engineering, I am a Machine Learning Engineer at Delivery Hero | Talabat, working on end-to-end development, deployment, and scaling of ML solutions that support high-impact business operations.
 
-I am interested in research field since I was in my second year at my faculty.
+Before that, I worked as a Senior Principal Machine Learning Engineer at Dell, where I led the deployment, productization, and optimization of ML systems across internal and customer-facing platforms, enabling scalable and reliable AI capabilities.
 
-I love and keen on Machine Learning, Swarm Intelligence and Natural Language Processing. So, this blog will be about the fields that I work on such as computer science, philosophy and maybe writing an opinion about specific events.
+My background spans both core data science and machine learning engineering, with experience in NLP, speech processing, and conversational AI. 
 
-I made this blog because I found that it is a good thing when expressing my thoughts and spread my knowledge to others who find what I write is useful for them.
+I have designed and delivered solutions ranging from text and voice understanding models to fully operationalized ML pipelines in production.
 
-Currently, I am M.Sc student at Faculty of Computer and Information Science Cairo_University [2016 – 2019(expected)].
+My core competencies include: Building robust ML architectures, developing, training and fine-tuning NLP and speech-based models, deploying scalable, production-grade ML systems, and leading cross-functional efforts to translate business needs into impactful AI solutions.
 
-I am about to begin my thesis, which will be on Natural Language Processing topic. Actually, I haven’t determined yet what the topic will be, there are many topics that I am interested in. You can suggest me a topic to make a research on it. 🙂
+I’m passionate about creating scalable, maintainable, and high-quality AI systems that drive measurable business value.
