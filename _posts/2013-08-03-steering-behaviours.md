@@ -5,7 +5,10 @@ date: 2013-08-06
 last_modified_at: 2014-05-18
 categories: [Artificial Intelligence, Geometry, Techniques]
 tags: [artificial-intelligence, geometry, game-ai, steering-behaviors]
+migrated_from: https://ahmedhanibrahim.wordpress.com/2013/08/06/steering-behaviors/
 ---
+
+> **Note:** This post was originally published on [AH's Blog (WordPress)](https://ahmedhanibrahim.wordpress.com/2013/08/06/steering-behaviors/) on August 6, 2013, and has been migrated here.
 
 Steering behaviors are a collection of techniques that help autonomous characters move in a realistic manner, by combining forces that produce natural, believable movement.
 
