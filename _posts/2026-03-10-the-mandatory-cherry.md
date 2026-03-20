@@ -116,7 +116,7 @@ The best technologies in history found their place quietly, over time, through g
 
 We deserve the right to choose. To decide where AI fits, and where it does not. To keep some parts of our thinking, our creativity, and our struggle *human.*
 
-Not because we are afraid of technology. But because we know what makes us human — and we are not ready to hand it over just yet.
+Not because we are afraid of technology. But because we know what makes us human, and we are not ready to hand it over just yet.
 
 ---
 
