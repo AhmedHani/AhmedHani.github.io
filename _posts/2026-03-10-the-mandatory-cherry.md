@@ -46,7 +46,7 @@ It started around 2022, when AI tools became public and easy to use. Suddenly, e
 
 And just like that, the cherry became mandatory.
 
-Not because the cake stopped being good without it. But because someone — somewhere — decided that a cake without a cherry is no longer a real cake.
+Not because the cake stopped being good without it. But because someone, somewhere, decided that a cake without a cherry is no longer a real cake.
 
 ---
 
