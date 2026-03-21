@@ -1,8 +1,3 @@
----
-title: "The Mandatory Cherry"
-date: 2026-03-10
-image: /images/the-mandatory-cherry.png
----
 ![The Mandatory Cherry](/images/the-mandatory-cherry.png)
 
 I love cake.
