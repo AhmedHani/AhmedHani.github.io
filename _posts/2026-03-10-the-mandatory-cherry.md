@@ -1,10 +1,10 @@
 I love cake.
 
-Not because of the cherry on top. But because of the cake itself — the dough, the cream, the layers. The cherry was always a bonus. A nice touch. Something that made a good thing a little better. But if it wasn't there, I could still enjoy my cake just fine.
+Not because of the cherry on top. But because of the cake itself, the dough, the cream, the layers. The cherry was always a bonus. A nice touch. Something that made a good thing a little better. But if it wasn't there, I could still enjoy my cake just fine.
 
 That's how I used to think about AI.
 
-Seven years ago, AI was the cherry. It made things a little smarter, a little faster. Netflix recommended a show you might like. Your email filtered out the spam. A map found you a faster route. These were small, quiet improvements to life. Nobody told you that you *needed* them. Nobody said you were falling behind without them.
+Four years ago, AI was the cherry. It made things a little smarter, a little faster. Netflix recommended a show you might like. Your email filtered out the spam. A map found you a faster route. These were small, quiet improvements to life. Nobody told you that you *needed* them. Nobody said you were falling behind without them.
 
 AI was optional. And that felt right.
 
