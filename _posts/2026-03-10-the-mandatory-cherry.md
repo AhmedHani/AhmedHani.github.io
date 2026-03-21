@@ -20,7 +20,7 @@ While most of my classmates were focused on web development and mobile apps, the
 
 People thought I was being unrealistic.
 
-Friends, classmates, even some people who meant well would say things like: *"AI? That's very niche. You won't find a job easily. Focus on web or mobile — that's where the market is."* Some said it with concern. Some said it with a laugh. But the message was the same: *you are choosing the hard road for no good reason.*
+Friends, classmates, even some people who meant well would say things like: *"AI? That's very niche. You won't find a job easily. Focus on web or mobile، that's where the market is."* Some said it with concern. Some said it with a laugh. But the message was the same: *you are choosing the hard road for no good reason.*
 
 I chose it anyway.
 
@@ -38,7 +38,7 @@ And noise, I have learned, is rarely a good guide for important decisions.
 
 Then, almost overnight, the story shifted.
 
-It started around 2022, when AI tools became public and easy to use. Suddenly, everyone had an opinion. Every headline. Every conference. Every LinkedIn post. The message was the same, just dressed differently each time:
+It started around/late 2022, when AI tools became public and easy to use. Suddenly, everyone had an opinion. Every headline. Every conference. Every LinkedIn post. The message was the same, just dressed differently each time:
 
 *"Use AI or get left behind."*
 
