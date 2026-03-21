@@ -1,3 +1,9 @@
+---
+title: "The Mandatory Cherry"
+date: 2026-03-10
+image: /images/the-mandatory-cherry.png
+---
+
 I love cake.
 
 Not because of the cherry on top. But because of the cake itself, the dough, the cream, the layers. The cherry was always a bonus. A nice touch. Something that made a good thing a little better. But if it wasn't there, I could still enjoy my cake just fine.
