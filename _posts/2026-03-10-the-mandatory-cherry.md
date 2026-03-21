@@ -114,7 +114,7 @@ But I am against the pressure. The manufactured urgency. The feeling that if you
 
 The cherry was never mandatory. You can still eat the cake without it.
 
-The best technologies in history found their place quietly, over time, through genuine usefulness — not through a wave of hype that made people afraid to say no.
+The best technologies in history found their place quietly, over time, through genuine usefulness, not through a wave of hype that made people afraid to say no.
 
 We deserve the right to choose. To decide where AI fits, and where it does not. To keep some parts of our thinking, our creativity, and our struggle *human.*
 
