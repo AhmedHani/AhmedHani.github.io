@@ -74,7 +74,7 @@ The most common argument you hear is this: *AI makes you more productive.*
 
 And maybe it does. But productive at what? For whom?
 
-Productivity is not a goal. It is a tool. A means to an end. If AI helps you do more of something you deeply care about, that is wonderful. But if it just helps you do *more* — more emails, more reports, more content — without asking whether any of it matters, then you are not living better. You are just running faster on the same wheel.
+Productivity is not a goal. It is a tool. A means to an end. If AI helps you do more of something you deeply care about, that is wonderful. But if it just helps you do *more*, more emails, more reports, more content, without asking whether any of it matters, then you are not living better. You are just running faster on the same wheel.
 
 The "be more productive" message feels empowering on the surface. But underneath it is a quiet assumption: that your value is measured by your output. And that is a very old, very tired idea dressed up in new technology.
 
@@ -84,7 +84,7 @@ The "be more productive" message feels empowering on the surface. But underneath
 
 Before AI became mandatory, there was something beautiful about struggling with a hard problem yourself.
 
-You sat with it. You thought. You got it wrong. You tried again. And when you finally got it right — or even when you didn't — something happened inside you. You grew. You learned how to *think.*
+You sat with it. You thought. You got it wrong. You tried again. And when you finally got it right, or even when you didn't, something happened inside you. You grew. You learned how to *think.*
 
 When a tool starts doing that thinking for you, the shortcut is obvious. But the loss is invisible.
 
