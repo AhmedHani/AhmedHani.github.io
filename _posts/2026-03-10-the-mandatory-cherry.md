@@ -16,7 +16,7 @@ AI was optional. And that felt right.
 
 I remember my college days well.
 
-While most of my classmates were focused on web development and mobile apps — the "safe" paths, the ones with clear job offers waiting at the end — I was fascinated by something different. Machine learning. Artificial intelligence. The idea that a machine could learn from data and make decisions felt like magic to me. I wanted to spend my career exploring that.
+While most of my classmates were focused on web development and mobile apps, the "safe" paths, the ones with clear job offers waiting at the end, I was fascinated by something different. Machine learning. Artificial intelligence. The idea that a machine could learn from data and make decisions felt like magic to me. I wanted to spend my career exploring that.
 
 People thought I was being unrealistic.
 
