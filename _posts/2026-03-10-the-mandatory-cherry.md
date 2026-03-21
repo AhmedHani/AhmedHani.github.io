@@ -98,9 +98,9 @@ Here is a question I rarely hear:
 
 *Does humanity actually need AI this much?*
 
-Not "can AI help?" — yes, it can, in many situations. But *need*? In the deep sense of the word?
+Not "can AI help?", yes, it can, in many situations. But *need*? In the deep sense of the word?
 
-Humanity built the pyramids without AI. Shakespeare wrote without AI. We landed on the moon without AI. We fell in love, raised children, made art, and found meaning — all without AI.
+Humanity built the pyramids without AI. Shakespeare wrote without AI. We landed on the moon without AI. We fell in love, raised children, made art, and found meaning, all without AI.
 
 None of that is an argument against progress. But it is a reminder that the story of human greatness was written long before the algorithm arrived. And it was written by people who had to think, to struggle, to feel.
 
